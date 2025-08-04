@@ -1,4 +1,4 @@
-## 📝 Task 3: Decision Tree Classifier – Summary
+## 📝 Task 3: Decision Tree Classifier 
 
 **Objective:**  
 Build a Decision Tree model to predict whether a customer will purchase a product/service based on demographic and behavioral data (Bank Marketing Dataset).
